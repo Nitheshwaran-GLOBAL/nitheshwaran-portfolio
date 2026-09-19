@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220">
+<rect width="720" height="220" rx="28" fill="#0b0b0b" stroke="#2d2d2d" stroke-width="3"/>
+<path d="M65 165 105 55h40l38 110h-36l-8-26H89l-8 26H65Zm35-55h35l-18-41-17 41Z" fill="#ff2d43"/>
+<text x="210" y="105" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" fill="#f4f4f4">ALEC</text>
+<text x="214" y="148" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="600" letter-spacing="4" fill="#9b9b9b">TECHNOLOGIES</text>
+<text x="490" y="105" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#ff5a6c">ELV &amp; TECHNOLOGY</text>
+</svg>
